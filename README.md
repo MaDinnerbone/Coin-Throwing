@@ -19,5 +19,10 @@ This project will tell you the truth!
 00(both up)
 
 
+## language
+
+The output console is written in Chinese.
+
+
 # NOW OPEN THE PROGRAM FILE !!!
 NOW OPEN THE PROGRAM FILE !!!
